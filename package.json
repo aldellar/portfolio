@@ -1,9 +1,9 @@
 {
-  "name": "cse186-mui-responsive-holy-grail",
+  "name": "andrew-dell-aringa-portfolio",
   "type": "module",
   "version": "3.0.0",
-  "description": "CSE186 Mui Responsive Holy Grail",
-  "author": "David Harrison <dcharris@ucsc.edu>",
+  "description": "Andrew Dell'Aringa Portfolio",
+  "author": "Andrew Dell'Aringa <andrewdellaringa@gmail.com>",
   "license": "UNLICENSED",
   "repository": "none",
   "scripts": {
