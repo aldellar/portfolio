@@ -1,0 +1,25 @@
+{
+  "name": "cse186-mui-responsive-holy-grail",
+  "type": "module",
+  "version": "3.0.0",
+  "description": "CSE186 Mui Responsive Holy Grail",
+  "author": "David Harrison <dcharris@ucsc.edu>",
+  "license": "UNLICENSED",
+  "repository": "none",
+  "scripts": {
+    "dev": "vite --port 3000"
+  },
+  "dependencies": {
+    "@emotion/react": "*",
+    "@emotion/styled": "*",
+    "@mui/icons-material": "*",
+    "@mui/material": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-lorem-ipsum": "*"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "*",
+    "vite": "*"
+  }
+}
