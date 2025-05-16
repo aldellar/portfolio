@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Node.js',
+    'Swift',
+    'Supabase',
+    'Docker',
+    'PostgreSQL',
+    'Express.js',
+    'Git',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +146,25 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              I’m Andrew — I got into coding because I was curious about how apps and websites
+              worked behind the scenes. At first, it was just tinkering and breaking things to see
+              what would happen. But after I built my first mobile app, everything clicked — I
+              realized how much I enjoyed turning an idea into something real that people could
+              interact with and use in their daily lives.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Over the past few years, I’ve worked on a range of personal and academic projects,
+              from full-stack apps using React and Node.js to distributed systems and cloud-based
+              infrastructure. I enjoy building things end-to-end and continually push myself to
+              learn more about system design, performance optimization, and scalable architecture.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I'm currently exploring iOS development using Swift, and recently started an
+              internship where I get to apply my skills in a full-stack environment using Supabase
+              and modern web tools. I love collaborating with others, learning by doing, and turning
+              ideas into working products.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
