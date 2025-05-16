@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Andrew Dell'Aringa`,
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Andrew Dell’Aringa is a software engineer focused on building clean, testable, and scalable web and mobile experiences using modern technologies like Node.js, React Native, and Docker.',
     siteUrl: 'https://andrewdellaringa.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },

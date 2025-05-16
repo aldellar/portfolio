@@ -60,12 +60,13 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        I’m always open to new opportunities, collaborations, or just a quick chat. Whether you have
+        a question, want to work together, or just want to say hi, feel free to drop a message—I'll
+        get back to you soon.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
-        Say Hello
+        Send a Message
       </a>
     </StyledContactSection>
   );
