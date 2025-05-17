@@ -11,7 +11,7 @@ tech:
   - Git
 ---
 
-1 A fault-tolerant key-value store built using Node.js and Express, with OpenAPI 3.0 specs and primary-backup replication to ensure strong consistency across nodes. Deployed using Docker and tested through Swagger-based validation and CI pipelines.
+A fault-tolerant key-value store built using Node.js and Express, with OpenAPI 3.0 specs and primary-backup replication to ensure strong consistency across nodes. Deployed using Docker and tested through Swagger-based validation and CI pipelines.
 
 Key features include:
 
