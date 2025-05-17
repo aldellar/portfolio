@@ -4,7 +4,7 @@ title: 'Package Handler'
 company: 'FedEx'
 location: 'Tracy, CA'
 range: 'Mar 2023 – Aug 2023'
-url: 'https://www.fedex.com'
+url: 'https://www.linkedin.com/company/fedex/'
 ---
 
 - Handled and sorted 1,000+ packages per shift with speed and accuracy in a fast-paced warehouse environment.

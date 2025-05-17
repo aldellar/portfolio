@@ -4,7 +4,7 @@ title: 'iOS Developer Intern'
 company: 'What’s The Move'
 location: 'Santa Cruz, CA'
 range: 'Mar 2025 – Present'
-url: ''
+url: 'https://www.linkedin.com/company/whats-the-move-app/'
 ---
 
 - Developing a full-stack iOS app using Swift and Supabase, contributing to authentication, database integration, and real-time feature implementation.
