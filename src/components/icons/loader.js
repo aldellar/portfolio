@@ -5,7 +5,7 @@ const IconLoader = () => (
     <title>Loader Logo</title>
     <g>
       <path
-        d="M45 28 L32 64 H39 L42 56 H55 L58 64 H65 L52 28 H45 Z M43.5 50 L48.5 37 L53.5 50 H43.5 Z"
+        d="M46 29 L33 65 H40 L43 57 H56 L59 65 H66 L53 29 H46 Z M44.5 51 L49.5 38 L54.5 51 H44.5 Z"
         fill="currentColor"
       />
       <path
