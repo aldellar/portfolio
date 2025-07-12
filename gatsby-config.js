@@ -129,7 +129,7 @@ module.exports = {
                   definition: {
                     superscript_types: /(SuperType)/,
                   },
-                  insertBefore: {
+                  fertBefore: {
                     function: {
                       superscript_keywords: /(superif|superelse)/,
                     },
