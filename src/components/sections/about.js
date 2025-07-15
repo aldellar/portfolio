@@ -141,11 +141,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              I’m Andrew — I got into coding because I was curious about how apps and websites
-              worked behind the scenes. At first, it was just tinkering and breaking things to see
-              what would happen. But after I built my first mobile app, everything clicked — I
-              realized how much I enjoyed turning an idea into something real that people could
-              interact with and use in their daily lives.
+              Hi, I’m Andrew - I studied Computer Science, but most of what I’ve learned has come
+              from building things on my own. For me, programming has never been about knowing
+              everything it’s about learning by doing. I like working on projects that challenge me,
+              collaborating with people who think differently, and seeing how far I can take an idea
+              with code.
             </p>
 
             <p>

@@ -13,14 +13,15 @@ tech:
   - Swagger/OpenAPI
   - Material UI
   - Jest
+  - Git
 ---
 
-CollabSpace is a collaboration platform with secure login, user dashboards, and protected routes. The frontend is built in React with Material UI and Context API, and the backend uses Node.js and PostgreSQL. APIs are described with OpenAPI and validated with express-openapi-validator. Tests are written with Jest to ensure everything works reliably.
+CollabSpace is a full-stack collaboration platform featuring secure authentication, user-specific dashboards, and protected routes. The frontend is built with React, using Material UI and the Context API, while the backend runs on Node.js with a PostgreSQL database. APIs are documented with OpenAPI and validated using express-openapi-validator. Comprehensive tests are written in Jest to ensure reliability across the stack.
 
 Key features include:
 
-- JWT authentication for secure login and role-based access
+- Secure JWT authentication with role-based access control
 - Responsive React UI styled with Material UI
-- PostgreSQL for relational data modeling
-- OpenAPI-based request/response validation
-- Jest tests for frontend and backend logic
+- Normalized relational data modeling in PostgreSQL
+- Strict request/response validation via OpenAPI and express-openapi-validator
+- Full-stack testing using Jest for frontend and backend logic

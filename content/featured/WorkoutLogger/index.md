@@ -7,12 +7,14 @@ tech:
   - React Native
   - Node.js
   - AsyncStorage
+  - React Navigation
+  - Git
 ---
 
-Workout Logger is a React Native app for tracking workouts. Users can log exercises and sets, and data is stored locally using AsyncStorage. It supports smooth screen transitions and modular UI components.
+Workout Logger is a mobile app built with React Native and Node.js that helps users track workouts, log exercises, and monitor progress over time. Data is stored locally using AsyncStorage for offline access, and users can manage their profiles and track personal records (PRs) across sessions. The interface is built with modular components.
 
 Key features include:
 
-- Offline data storage using AsyncStorage
-- React Navigation for seamless transitions
-- Reusable UI components like modals and cards
+- Local data persistence via AsyncStorage
+- Personal profiles with PR tracking and workout history
+- Modular, reusable UI components (modals, cards)
