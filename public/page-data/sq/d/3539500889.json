@@ -1,0 +1,12 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Andrew Dell'Aringa",
+        "defaultDescription": "Andrew Dell’Aringa is a software engineer focused on building clean, testable, and scalable web and mobile experiences using modern technologies like Node.js, React Native, and Docker.",
+        "siteUrl": "https://andrewdellaringa.com",
+        "defaultImage": "/og.png"
+      }
+    }
+  }
+}
