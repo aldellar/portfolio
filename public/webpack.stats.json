@@ -3,7 +3,7 @@
     "app": {
       "name": "app",
       "assets": [
-        { "name": "webpack-runtime-d660b526c35d8a04efe6.js", "size": 4151 },
+        { "name": "webpack-runtime-528102cad3af00349491.js", "size": 4151 },
         { "name": "framework-5d6349cdf9c4e4fe213c.js", "size": 129529 },
         { "name": "app-b434e81512c8d785b3ee.js", "size": 105584 }
       ],
@@ -21,7 +21,7 @@
       "filteredAssets": 0,
       "assetsSize": 126748,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1161802
+      "auxiliaryAssetsSize": 1161801
     },
     "component---src-pages-archive-js": {
       "name": "component---src-pages-archive-js",
@@ -32,7 +32,7 @@
       "filteredAssets": 0,
       "assetsSize": 128719,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1167010
+      "auxiliaryAssetsSize": 1167009
     },
     "component---src-pages-index-js": {
       "name": "component---src-pages-index-js",
@@ -43,7 +43,7 @@
       "filteredAssets": 0,
       "assetsSize": 125838,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1159428
+      "auxiliaryAssetsSize": 1159427
     },
     "component---src-pages-pensieve-index-js": {
       "name": "component---src-pages-pensieve-index-js",
@@ -54,7 +54,7 @@
       "filteredAssets": 0,
       "assetsSize": 134384,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1194888
+      "auxiliaryAssetsSize": 1194887
     },
     "component---src-pages-pensieve-tags-js": {
       "name": "component---src-pages-pensieve-tags-js",
@@ -65,7 +65,7 @@
       "filteredAssets": 0,
       "assetsSize": 131940,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1190169
+      "auxiliaryAssetsSize": 1190168
     },
     "component---src-templates-post-js": {
       "name": "component---src-templates-post-js",
@@ -76,7 +76,7 @@
       "filteredAssets": 0,
       "assetsSize": 132536,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1191213
+      "auxiliaryAssetsSize": 1191212
     },
     "component---src-templates-tag-js": {
       "name": "component---src-templates-tag-js",
@@ -87,12 +87,12 @@
       "filteredAssets": 0,
       "assetsSize": 132500,
       "filteredAuxiliaryAssets": 22,
-      "auxiliaryAssetsSize": 1192278
+      "auxiliaryAssetsSize": 1192277
     }
   },
   "assetsByChunkName": {
     "app": [
-      "webpack-runtime-d660b526c35d8a04efe6.js",
+      "webpack-runtime-528102cad3af00349491.js",
       "framework-5d6349cdf9c4e4fe213c.js",
       "app-b434e81512c8d785b3ee.js"
     ],
