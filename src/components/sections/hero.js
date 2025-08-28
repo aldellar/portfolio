@@ -67,9 +67,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer passionate about creating clean, scalable, and intuitive digital
-        experiences. Currently, I'm building an iOS app with Swift and Supabase while working on
-        full-stack projects using React Native, Node.js, and PostgreSQL.
+        I am currently designing and shipping new features for an iOS app at my internship and
+        exploring LLM integration in personal projects, using my background in mobile and backend
+        development to better understand how these models can be applied in practice.{' '}
       </p>
     </>
   );

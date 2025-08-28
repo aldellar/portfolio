@@ -5,7 +5,6 @@ cover: './workoutlogger.png'
 github: 'https://github.com/aldellar/Workout-Logger'
 tech:
   - React Native
-  - Node.js
   - AsyncStorage
   - React Navigation
   - Git

@@ -64,7 +64,7 @@
                   }
                 }
               },
-              "tech": ["React Native", "Node.js", "AsyncStorage", "React Navigation", "Git"],
+              "tech": ["React Native", "AsyncStorage", "React Navigation", "Git"],
               "github": "https://github.com/aldellar/Workout-Logger",
               "external": null
             },
@@ -110,11 +110,10 @@
               "tech": [
                 "Node.js",
                 "Express",
-                "Docker",
                 "Swagger/OpenAPI",
-                "Git",
-                "Docker Compose",
-                "Postman"
+                "AWS (EC2)",
+                "Docker Hub",
+                "GitHub Actions"
               ],
               "github": "https://github.com/aldellar/Distributed-Key-Value-Store",
               "external": null

@@ -121,16 +121,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'TypeScript',
-    'React',
-    'Node.js',
-    'Swift',
+    'Swift (SwiftUI)',
     'Supabase',
-    'Docker',
-    'PostgreSQL',
-    'Express.js',
-    'Git',
+    'AWS (EC2, Amplify)',
+    'OpenAI API',
+    'Node.js',
+    'Docker Hub',
+    'TestFlight',
+    'GitHub Actions',
   ];
 
   return (
