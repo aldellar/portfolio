@@ -128,7 +128,7 @@ const About = () => {
     'Node.js',
     'Docker Hub',
     'TestFlight',
-    'GitHub Actions',
+    'GitHub Actions'
   ];
 
   return (
