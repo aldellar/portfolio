@@ -3,89 +3,89 @@
     "app": {
       "name": "app",
       "assets": [
-        { "name": "webpack-runtime-528102cad3af00349491.js", "size": 4151 },
-        { "name": "framework-5d6349cdf9c4e4fe213c.js", "size": 129529 },
-        { "name": "app-b434e81512c8d785b3ee.js", "size": 105584 }
+        { "name": "webpack-runtime-528102cad3af00349491.js", "size": 7238 },
+        { "name": "framework-5d6349cdf9c4e4fe213c.js", "size": 253555 },
+        { "name": "app-b434e81512c8d785b3ee.js", "size": 203869 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 239264,
+      "assetsSize": 464662,
       "filteredAuxiliaryAssets": 3,
       "auxiliaryAssetsSize": 781643
     },
     "component---src-pages-404-js": {
       "name": "component---src-pages-404-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-pages-404-js-9669726d64b569040d19.js", "size": 1542 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-pages-404-js-9669726d64b569040d19.js", "size": 2355 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 126748,
+      "assetsSize": 218323,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1161801
     },
     "component---src-pages-archive-js": {
       "name": "component---src-pages-archive-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-pages-archive-js-737af2f32616db752123.js", "size": 3513 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-pages-archive-js-737af2f32616db752123.js", "size": 6828 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 128719,
+      "assetsSize": 222796,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1167009
     },
     "component---src-pages-index-js": {
       "name": "component---src-pages-index-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-pages-index-js-e27d46a7cd6bcbd8b56c.js", "size": 632 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-pages-index-js-e27d46a7cd6bcbd8b56c.js", "size": 955 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 125838,
+      "assetsSize": 216923,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1159427
     },
     "component---src-pages-pensieve-index-js": {
       "name": "component---src-pages-pensieve-index-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-pages-pensieve-index-js-29c81551852b7c411b77.js", "size": 9178 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-pages-pensieve-index-js-29c81551852b7c411b77.js", "size": 15580 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 134384,
+      "assetsSize": 231548,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1194887
     },
     "component---src-pages-pensieve-tags-js": {
       "name": "component---src-pages-pensieve-tags-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-pages-pensieve-tags-js-ae575f91da30c3dfb0d8.js", "size": 6734 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-pages-pensieve-tags-js-ae575f91da30c3dfb0d8.js", "size": 11401 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 131940,
+      "assetsSize": 227369,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1190168
     },
     "component---src-templates-post-js": {
       "name": "component---src-templates-post-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-templates-post-js-2c1396f418ee1ed225ec.js", "size": 7330 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-templates-post-js-2c1396f418ee1ed225ec.js", "size": 12416 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 132536,
+      "assetsSize": 228384,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1191212
     },
     "component---src-templates-tag-js": {
       "name": "component---src-templates-tag-js",
       "assets": [
-        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 125206 },
-        { "name": "component---src-templates-tag-js-46ac43c869f361cd0916.js", "size": 7294 }
+        { "name": "commons-b579ff98e9ccc4da0f05.js", "size": 215968 },
+        { "name": "component---src-templates-tag-js-46ac43c869f361cd0916.js", "size": 12726 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 132500,
+      "assetsSize": 228694,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1192277
     }
