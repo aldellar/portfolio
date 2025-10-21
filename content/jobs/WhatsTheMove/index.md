@@ -1,13 +1,13 @@
 ---
 date: '2025-03-01'
-title: 'iOS Developer Intern'
-company: 'What’s The Move'
-location: 'Santa Cruz, CA'
+title: 'Founding iOS Developer'
+company: 'What's The Move'
+location: 'Remote, San Francisco, CA'
 range: 'Mar 2025 – Present'
 url: 'https://www.linkedin.com/company/whats-the-move-app/'
 ---
 
-- Developing a full-stack iOS app using Swift and Supabase, contributing to authentication, database integration, and real-time feature implementation.
-- Took ownership of key user flows—including login and profile management—enhancing onboarding experience and app security.
-- Collaborating with a 6-person team to deliver clean, functional features within an agile workflow.
-- Working across both frontend and backend to build scalable, performant features in a fast-paced startup environment.
+- Spearheaded development of the authentication and user profile system using SwiftUI and Supabase, implementing secure Row-Level Security (RLS) policies to control access and ensure users could only modify their own profiles.
+- Collaborated cross-functionally with product owners and designers translating Figma designs into production-ready SwiftUI components, establishing a cohesive UI/UX theme aligned with brand vision.
+- Led technical interviews and onboarding for new iOS engineers, helping expand the team from concept to execution while maintaining high code quality and accelerating onboarding in a fast-paced startup environment.
+- Partnered directly with company founders to plan, scope, and iterate on core product features, ensuring alignment between business goals, technical feasibility, and user experience in a rapidly evolving startup environment.
