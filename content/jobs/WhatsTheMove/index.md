@@ -1,9 +1,9 @@
 ---
 date: '2025-03-01'
 title: 'Founding iOS Developer'
-company: 'What's The Move'
+company: 'What’s The Move'
 location: 'Remote, San Francisco, CA'
-range: 'Mar 2025 - Present'
+range: 'Mar 2025 – Present'
 url: 'https://www.linkedin.com/company/whats-the-move-app/'
 ---
 
